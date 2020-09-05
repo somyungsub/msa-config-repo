@@ -13,6 +13,6 @@ spring.jpa.properties.hibernate.dialect: "org.hibernate.dialect.PostgreSQLDialec
 spring.jpa.properties.hibernate.jdbc.lob.non_contextual_creation: "true"
 spring.jpa.properties.hibernate.temp.use_jdbc_metadata_defaults: "false"
 spring.jpa.hibernate.ddl-auto: "create-drop"
-redis.server: "redis"
+redis.server: "redis-msa"
 redis.port: "6379"
 signing.key: "345345fsdfsf5345"
